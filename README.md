@@ -55,10 +55,4 @@ venv\Scripts\activate         # Windows
 
 pip install -r requirements.txt
 
-mkdir -p static/uploads
-
 python app.py  ===>> http://127.0.0.1:5000
-
-Konfigurasi TOKEN/API
-ACCESS_TOKEN = "YOUR_FONNTE_API_KEY"
-FONNTE_API = "https://api.fonnte.com/send"
